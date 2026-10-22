@@ -37,7 +37,7 @@ const RETRY_DELAY_MS = 1500;
 // ─────────────────────────────────────────────────────────────
 
 const state = {
-  apiKey:         '',
+  apiKey:         'AQ.Ab8RN6JxlZ11BdCWBniHEsqRoye-Xe8BuwhMc39lu7SB_fi_Ng',
   model:          'gemini-1.5-flash',
   temperature:    0.7,
   maxTokens:      2048,
